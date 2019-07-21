@@ -1,1 +1,1 @@
-# Sample file created for my OMSBA class
+# Course content for my W&M Completing Through Business Analytics class. Summer 2019
